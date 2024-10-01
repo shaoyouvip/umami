@@ -157,3 +157,6 @@ docker compose up --force-recreate
 [linkedin-url]: https://linkedin.com/company/umami-software
 [discord-shield]: https://img.shields.io/badge/Discord--blue?style=social&logo=discord
 [discord-url]: https://discord.com/invite/4dz4zcXYrQ
+
+## 鸣谢：
+[https://umami.is/](https://umami.is/)
